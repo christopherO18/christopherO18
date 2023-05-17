@@ -1,5 +1,16 @@
 ### Hi there 👋
-I´m Christopherll
+I´m Christopher
+
+Soy estudiante del Instituto Tecnologico de Tijuana cursando el 10mo semestre.
+Mis lenguajes favoritos son:
+    *Python
+    *C#
+Estoy aprendiendo a usar Frameworks como:
+    *.NET
+    *Django
+    *Bootstrap
+
+Me gusta ver peliculas y mi favoritas son las de Marvel
 <!--
 **christopherO18/christopherO18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

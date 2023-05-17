@@ -3,12 +3,12 @@ I´m Christopher
 
 Soy estudiante del Instituto Tecnologico de Tijuana cursando el 10mo semestre.
 Mis lenguajes favoritos son:
-    *Python
-    *C#
+    * Python
+    * C#
 Estoy aprendiendo a usar Frameworks como:
-    *.NET
-    *Django
-    *Bootstrap
+    * .NET
+    * Django
+    * Bootstrap
 
 Me gusta ver peliculas y mi favoritas son las de Marvel
 <!--
